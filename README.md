@@ -54,23 +54,23 @@ Unique offsets ensure that movements are distinct for each animal to simulate re
 ### How to Run
 Clone the repository:
 
-# bash 
-git clone https://github.com/your-username/livestock-tracker.git
+:bash 
+git clone https://github.com/shrads17/LiveStock-Tracker.git
 Navigate to the project directory:
 
-# bash 
+:bash 
 cd project
 
-# Install dependencies:
+:Install dependencies:
 
-# bash 
+:bash 
 npm install
 
-Start the development server:
-# bash
+:Start the development server:
+bash
 npm run dev
 
-# Open the application in your browser:
+:Open the application in your browser:
 http://localhost:5173
 
 
